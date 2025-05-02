@@ -57,6 +57,7 @@ https://chromedriver.chromium.org/downloads
 Place chromedriver.exe in the project root directory.
 
 🚀 How to Run
+---
 
 Ensure you are in the project directory.
 
@@ -69,6 +70,7 @@ streamlit run main.py
 Open the provided local URL in your browser.
 
 💡 How It Works
+---
 
 Enter the website URL in the input box.
 
@@ -81,6 +83,7 @@ Enter a description of the data you want to extract.
 Click Parse Content to get results from the AI model.
 
 📂 Project Structure
+---
 Edit
 ├── main.py            # Streamlit frontend  
 ├── scrape.py          # Web scraping and cleaning functions  
@@ -89,7 +92,10 @@ Edit
 ├── chromedriver.exe   # Selenium driver (ensure it matches your browser)
 
 🙌 Credit
+---
 Techwithtim
 
 📄 License
+---
+(c) copyright FazilKhan. All rights reserved.
 
