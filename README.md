@@ -84,7 +84,9 @@ Click Parse Content to get results from the AI model.
 
 📂 Project Structure
 ---
+
 Edit
+
 ├── main.py            # Streamlit frontend  
 ├── scrape.py          # Web scraping and cleaning functions  
 ├── parse.py           # AI parsing with LangChain + Ollama  
