@@ -37,6 +37,7 @@ Edit
 pip install -r requirements.txt
 
 🛠️ Dependencies
+
 streamlit
 
 selenium
@@ -50,11 +51,13 @@ langchain_ollama
 chromedriver-autoinstaller (optional, if using)
 
 🖥️ ChromeDriver
+
 Download the ChromeDriver matching your Chrome browser version:
 https://chromedriver.chromium.org/downloads
 Place chromedriver.exe in the project root directory.
 
 🚀 How to Run
+
 Ensure you are in the project directory.
 
 Run the Streamlit app:
@@ -66,6 +69,7 @@ streamlit run main.py
 Open the provided local URL in your browser.
 
 💡 How It Works
+
 Enter the website URL in the input box.
 
 Click Scrape Site to extract and clean the website content.
@@ -77,8 +81,6 @@ Enter a description of the data you want to extract.
 Click Parse Content to get results from the AI model.
 
 📂 Project Structure
-graphql
-Copy
 Edit
 ├── main.py            # Streamlit frontend  
 ├── scrape.py          # Web scraping and cleaning functions  
@@ -90,5 +92,4 @@ Edit
 Techwithtim
 
 📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for more details.
+
