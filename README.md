@@ -96,7 +96,7 @@ Edit
 ## 📸 Project Screenshots
 ---
 ### Home Page
-![Home Page]([images/home.png](https://github.com/fazilkhan2106/AI-WebScraper/blob/f234bcccbcafa6498391be5d3d268d767e4e723b/Images/Image1.jpeg)
+![Home Page](Images/Image1.jpeg)
 
 ### Website Scraping
 ![Website Scraping](images/scrape.png)
