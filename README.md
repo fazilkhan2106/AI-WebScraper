@@ -99,12 +99,13 @@ Edit
 ![Home Page](Images/Image1.jpeg)
 
 ### Website Scraping
-![Website Scraping](images/scrape.png)
+![Website Scraping](Images/Image2.jpeg)
 
 ### Extracted Data
-![Extracted Data](images/results.png)
+![Extracted Data](Images/Image3.jpeg)
 
-
+### Result Data
+![Result Data](Images/Image4.jpeg)
 
 🙌 Credit
 ---
